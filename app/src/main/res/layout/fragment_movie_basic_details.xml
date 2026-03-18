@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText android:hint="Movie ID"
+
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+    <EditText android:hint="Name"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+    <EditText android:hint="Language"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+    <EditText android:hint="Year"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+    <EditText android:hint="Category"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+    <EditText android:hint="Duration"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+    <EditText android:hint="IMDB Ratings"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+</LinearLayout>
